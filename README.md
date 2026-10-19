@@ -116,3 +116,7 @@ python3 generate.py   # stdlib only, rewrites nerc_holidays.csv
 
 To add a region or extend the year range, edit `REGIONS` or `FIRST_YEAR`/`LAST_YEAR`
 in `generate.py` and rerun.
+
+## License
+
+[Apache 2.0](LICENSE)
